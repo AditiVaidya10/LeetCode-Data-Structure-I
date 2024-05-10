@@ -1,10 +1,10 @@
 # LeetCode Data Structure I Solutions in Python 🐍
 
-Welcome to my repository of Python solutions for LeetCode Data Structure II problems! 🚀 In this repository, you'll find my solutions to various Data Structure II problems on LeetCode, all written in Python.
+Welcome to my repository of Python solutions for LeetCode Data Structure I problems! 🚀 In this repository, you'll find my solutions to various Data Structure I problems on LeetCode, all written in Python.
 
 ## Why LeetCode Data Structure I?
 
-Data structures are the backbone of computer science and programming. Mastering them not only enhances your problem-solving skills but also makes you a better programmer overall. LeetCode's Data Structure II section covers essential data structures like stacks, queues, heaps, and more, offering a plethora of challenging problems to sharpen your skills.
+Data structures are the backbone of computer science and programming. Mastering them not only enhances your problem-solving skills but also makes you a better programmer overall. LeetCode's Data Structure I section covers essential data structures like stacks, queues, heaps, and more, offering a plethora of challenging problems to sharpen your skills.
 
 ## What's Inside?
 
